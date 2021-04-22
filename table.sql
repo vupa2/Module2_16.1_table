@@ -1,4 +1,4 @@
-DROP TABLE contacts, suppliers;
+DROP TABLE IF EXISTS contacts, suppliers;
 
 CREATE TABLE contacts
 (
